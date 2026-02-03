@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Parker Churchill
+Full-stack Software Engineer focused on production-grade systems (APIs, data, reliability).
 
-<!--
-**pchurchil1/pchurchil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- Backend: FastAPI (Python), PostgreSQL
+- Frontend: React + TypeScript
+- Infra: Docker, GitHub Actions
+- Interests: automotive data systems, distributed services, developer tooling
 
-Here are some ideas to get you started:
+## Currently Building (90-Day Portfolio)
+- Vehicle Telemetry API (FastAPI + Postgres + Docker)
+- Fleet Monitoring Dashboard (React + TS)
+- API Gateway + Rate Limiter (Redis + metrics)
+- CI/CD + DevOps Infrastructure (GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- LinkedIn: https://www.linkedin.com/in/parker-churchill-841b71247/
+- Email: Church66@msu.edu
+- Resume: <link>
