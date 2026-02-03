@@ -16,4 +16,4 @@ Full-stack Software Engineer focused on production-grade systems (APIs, data, re
 ## Links
 - LinkedIn: https://www.linkedin.com/in/parker-churchill-841b71247/
 - Email: Church66@msu.edu
-- Resume: <link>
+<- Resume: link>
