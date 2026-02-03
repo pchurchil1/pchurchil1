@@ -7,7 +7,7 @@ Full-stack Software Engineer focused on production-grade systems (APIs, data, re
 - Infra: Docker, GitHub Actions
 - Interests: automotive data systems, distributed services, developer tooling
 
-## Currently Building (90-Day Portfolio)
+## Currently Building
 - Vehicle Telemetry API (FastAPI + Postgres + Docker)
 - Fleet Monitoring Dashboard (React + TS)
 - API Gateway + Rate Limiter (Redis + metrics)
