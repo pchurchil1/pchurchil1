@@ -1,4 +1,4 @@
-# Hi, I’m Parker Churchill
+# Hi, I’m Parker
 
 I’m a Computer Science & Engineering student at Michigan State University and a Software Engineering Intern at Bosch. I’m focused on building production-shaped software systems across backend engineering, cloud deployment, data pipelines, and vehicle telemetry.
 
