@@ -20,7 +20,6 @@ A local-first Outlook VSTO add-in that uses machine learning to organize emails 
 Built with C#, .NET Framework, Outlook Interop, SQLite, and ML.NET
 Supports top-3 folder suggestions, batch approval, fuzzy folder search, undo, and retraining
 Designed around real-world constraints: local data privacy, Outlook performance, large inboxes, and user trust
-Engineering Automation Tools
 
 # What I'm learning:
 
