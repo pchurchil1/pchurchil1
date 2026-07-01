@@ -1,6 +1,6 @@
 # Hi, I’m Parker
 
-I’m a Computer Science & Engineering student at Michigan State University and a Software Engineering Intern at Bosch. I’m focused on building production-shaped software systems across backend engineering, cloud deployment, data pipelines, and vehicle telemetry.
+I’m a Computer Science & Engineering student at Michigan State University and a Software Engineering Intern at Bosch. I’m focused on building production-shaped software systems across backend engineering, cloud deployment, data pipelines, and learning new technologies.
 
 # What I’m Building:
 ## DriveOps — Vehicle Telemetry Platform
