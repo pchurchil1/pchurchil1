@@ -21,6 +21,10 @@ Built with C#, .NET Framework, Outlook Interop, SQLite, and ML.NET
 Supports top-3 folder suggestions, batch approval, fuzzy folder search, undo, and retraining
 Designed around real-world constraints: local data privacy, Outlook performance, large inboxes, and user trust
 
+## An extra special game
+
+I don't want to release anything yet but I am very excited about what is coming down the line.
+
 # What I'm learning:
 
 Cloud infrastructure with AWS, Docker, Terraform, and CI/CD
